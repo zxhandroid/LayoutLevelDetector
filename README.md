@@ -6,7 +6,7 @@
 但对于一些老项目来说，几十，上百个页面，一个个去查看对应xml文件，确定是否存在过深的布局嵌套，显示是一件很费时的事情。
 因此，如果在项目测试过程中，进入当前页面，就能知道，该页面是否存在过深的布局嵌套，相对而言就能更加省力一些。
 本项目就是希望能实现这么一个效果。
-![效果]()
+![效果](https://github.com/zxhandroid/LayoutLevelDetector/blob/master/screenshot/layout_level_detector.jpeg)
 
 ### 使用方式
 
