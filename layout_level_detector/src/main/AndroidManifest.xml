@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zxh.layout_level_detector">
+
+    <application>
+        <provider
+            android:name=".LayoutLevelDetectorProvider"
+            android:authorities="${applicationId}.layout-level-detector"
+            android:enabled="true"
+            android:exported="false"/>
+    </application>
+
+</manifest>

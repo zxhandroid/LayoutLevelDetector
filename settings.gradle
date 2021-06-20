@@ -1,0 +1,3 @@
+rootProject.name='LayoutLevelDetector'
+include ':app'
+include ':layout_level_detector'
